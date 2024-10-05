@@ -1,0 +1,8 @@
+name=Test
+author=James
+description=Game
+bundleID=com.organization.package
+version=1.0
+buildNumber=1
+imagePath=system
+launchSoundPath=
