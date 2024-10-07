@@ -1,3 +1,8 @@
-# {{cookiecutter.name}}
+# Game Name
 
-{{cookiecutter.description}}
+# Description
+
+# Requirements
+- Playdate SDK
+
+# Setup
